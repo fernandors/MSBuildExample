@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe msbuild.xml /t:%1 /p:Configuration=Release
